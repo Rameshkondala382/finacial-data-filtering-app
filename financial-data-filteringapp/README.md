@@ -11,7 +11,7 @@ A React app that displays financial data in a table, allows users to filter and 
 
 ## Instructions to Run Locally
 1. Clone the repository:
-   ```bash
+   `bash
    git clone https://github.com/Rameshkondala382/finacial-data-filtering-app.git
 
 ## link to the deployed app.
